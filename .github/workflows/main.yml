@@ -1,5 +1,0 @@
-name: Website to CPanel
-on:
-  push:
-    branches:
-    - main
