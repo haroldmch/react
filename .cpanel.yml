@@ -1,4 +1,4 @@
 ---
     deployment:
         tasks:
-            - git pull
+            - export DEPLOYPATH=/home/harolmch/public_html/
