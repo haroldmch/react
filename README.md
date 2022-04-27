@@ -1,4 +1,5 @@
 # Curso React
 This is a repo to learn about react
 
-## Init
+## Folder Tree
+ -- calc-app: is a very simple calculator app
