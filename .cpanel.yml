@@ -1,4 +1,5 @@
 ---
     deployment:
         tasks:
-            - export DEPLOYPATH=/home/harolmch/public_html/
+            - export DEPLOYPATH=/home/haroldmch/public_html/react/test
+            - /bin/cp index.html $DEPLOYPATH
